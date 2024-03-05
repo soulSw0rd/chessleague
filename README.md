@@ -14,8 +14,6 @@ Fonctionnalités Obligatoires  :
 
     Communication entre deux logiciels : Mise en place d'une communication bidirectionnelle entre deux instances du jeu, permettant le jeu en réseau local ou en ligne. 
 
-    Utilisation des informations du monde physique (IOT) : Intégration d'éléments liés à l'Internet des objets (IOT), offrant une interaction entre le jeu et le monde réel. 
-
     Lien avec une base de données : Création d'une base de données comprenant au moins 3 tables pour stocker des informations telles que les scores, les utilisateurs, et l'historique des parties. 
 
     Algorithme avancé : Implémentation d'algorithmes avancés, par exemple, une intelligence artificielle pour jouer contre l'utilisateur, offrant un défi adaptatif. 
