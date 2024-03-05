@@ -1,16 +1,15 @@
 # chessleague
-application de jeux d'échecs disponible en ligne et en local 
 
-PROJET PERSONNEL :
 
-Titre du Projet : Jeu d'échecs en ligne et en local avec Python et Pygame
+Titre du Projet : Chess League
+
+Objectif : Jeu d'échecs en ligne et en local avec Python et Pygame
 
 Description du Projet :
 Le projet consiste en la création d'un jeu d'échecs avec des fonctionnalités étendues, tant en mode en ligne qu'en mode local, en utilisant le langage de programmation Python et la bibliothèque Pygame. Le jeu doit offrir une expérience utilisateur riche, en mettant l'accent sur la convivialité et la jouabilité.
 
-Objectif de Difficulté : Atteindre ou dépasser 28 points en degré de difficulté.
 
-Fonctionnalités Obligatoires  :
+Fonctionnalités  :
 
     Communication entre deux logiciels : Mise en place d'une communication bidirectionnelle entre deux instances du jeu, permettant le jeu en réseau local ou en ligne. 
 
