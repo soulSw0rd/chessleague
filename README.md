@@ -39,3 +39,11 @@ Fonctionnalités Additionnelles  :
     Tournois en ligne : 2
     Mise en place d'un système de tournois en ligne avec classements et récompenses. 
 
+    matchmaking ELO : 2 / 3
+
+    interface graphique : 2
+
+    Liste d'amis : 2
+
+    rediffusion de partie : 3
+
